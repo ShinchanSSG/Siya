@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=SIYA%20AI&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Your%20AI%2C%20Your%20World.&descSize=22&descAlignY=62" alt="SIYA AI banner" width="100%" />
 
-<img src="assets/stars.svg" alt="" width="100%" />
+<img src="stars.svg" alt="" width="100%" />
 
-<img src="assets/siya.png" alt="SIYA - anime style AI assistant with long dark violet hair" width="300" />
+<img src="siya.png" alt="SIYA - anime style AI assistant with long dark violet hair" width="300" />
 
 <a href="https://github.com/ShinchanSSG/Siya-AI">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Hello+Siya...+%F0%9F%8E%A4;Your+AI%2C+Your+World.+%F0%9F%8C%8C;Voice+%E2%80%A2+Memory+%E2%80%A2+Desktop+Control;Created+by+Shravan+SG+%F0%9F%92%9C" alt="Typing animation" />
 </a>
 
-<img src="assets/voice-wave.svg" alt="Animated voice waveform" width="520" />
+<img src="voice-wave.svg" alt="Animated voice waveform" width="520" />
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-a855f7?style=for-the-badge)
 ![Tauri](https://img.shields.io/badge/Tauri-Desktop%20App-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
@@ -23,7 +23,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🌸 Who is SIYA?
 
@@ -36,7 +36,7 @@
 > [!WARNING]
 > **SIYA is not officially released yet.** She's under active development, so expect rough edges. Stay tuned! 🚀
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ✨ Features
 
@@ -87,7 +87,7 @@ No model is bundled. Add your own **`.pmx`** or **`.zip`** character and make SI
 
 **In the app menu:** `Topics` · `Recall` · `Share screen` · `Gemini model picker` · `Settings`
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ⚙️ How It Works
 
@@ -100,7 +100,7 @@ flowchart LR
     E --> F[🧍 3D Character<br/>+ Chat + Memory]
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🧰 Tech Stack
 
@@ -112,7 +112,7 @@ flowchart LR
 | 🎙️ Voice / AI | **Gemini Live** |
 | 🧠 Memory | **localStorage** + dashboard |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 📋 What You'll Need
 
@@ -129,7 +129,7 @@ flowchart LR
 - [ ] 🔭 **SIYA Cross Device Control (SCDC)** *(future idea)*
 - [ ] 🚀 Official release
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🌐 Website
 
@@ -143,7 +143,7 @@ SIYA has her own animated promo website:
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🛠️ Website Banwana Hai? (Website Request)
 
@@ -166,7 +166,7 @@ Discord server join karo aur apni **website banane ki request** bhejo.
 2. 📩 Website request wale channel mein jao
 3. ✍️ Batao kaisi website chahiye, aur apne reference links ya ideas share karo
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 👤 The Developer
 
@@ -183,11 +183,11 @@ Discord server join karo aur apni **website banane ki request** bhejo.
 
 <div align="center">
 
-<img src="assets/voice-wave.svg" alt="Animated voice waveform" width="420" />
+<img src="voice-wave.svg" alt="Animated voice waveform" width="420" />
 
 ⭐ **Agar SIYA pasand aayi to repo ko star zaroor karna!** ⭐
 
-<img src="assets/stars.svg" alt="" width="100%" />
+<img src="stars.svg" alt="" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=twinkling" width="100%" alt="footer" />
 
